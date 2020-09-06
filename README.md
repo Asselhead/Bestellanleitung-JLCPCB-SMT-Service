@@ -1,8 +1,9 @@
 # Bestellanleitung-JLCPCB-SMT-Service
 In dieser Anleitung wird beschrieben, wie man mit vorhandenen Gerber, BOM und Pick&amp;Place Daten eine bestückte Leiterplatte bei JLCPCB bestellen kann.
 
-Zunächst einmal muss dafür ein Kundenkonto bei [JLCPCB](https://jlcpcb.com) angelegt werden.
-Dabei empfiehlt es sich, keine Umlaute zu verwenden.
+
+Zunächst einmal muss dafür ein Kundenkonto bei [JLCPCB](https://jlcpcb.com) angelegt werden. (Wer bei JLCPCB bestellen möchte, muss über ein Paypal Konto verfügen.)
+Es empfiehlt sich, keine Umlaute zu verwenden.
 
 Aus Müller wird also Mueller usw.
 
