@@ -9,4 +9,10 @@ Aus Müller wird also Mueller usw.
 
 Anschließend klickt man auf der Startseite auf "Quote Now". Es erscheint folgenden Seite:
 
+## Schritt 1:
+
 ![01.png](https://github.com/Asselhead/Bestellanleitung-JLCPCB-SMT-Service/blob/master/Screenshots/01.png)
+
+## Schritt 2:
+
+![02.png](https://github.com/Asselhead/Bestellanleitung-JLCPCB-SMT-Service/blob/master/Screenshots/02.png)
