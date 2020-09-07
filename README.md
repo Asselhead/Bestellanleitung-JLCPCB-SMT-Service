@@ -72,6 +72,7 @@ Anschließend klickt man auf der Startseite auf "Quote Now". Es erscheint folgen
 ## Schritt 16:
 
 ![17.png](https://github.com/Asselhead/Bestellanleitung-JLCPCB-SMT-Service/blob/master/Screenshots/17.png)
+### Man sollte sich hier nicht von den geringen Bestückungskosten (86,11€) täuschen lassen. Das relative teure Bauteil CC1101 wird wegen fehlendem Lagerbestand nicht mitgezählt. Der Preis wäre sonst ca. 35-40 Euro höher.
 
 ## Schritt 17:
 
