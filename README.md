@@ -58,7 +58,7 @@ Anschließend klickt man auf der Startseite auf "Quote Now". Es erscheint folgen
 ![12.png](https://github.com/Asselhead/Bestellanleitung-JLCPCB-SMT-Service/blob/master/Screenshots/12.png)
 
 ## Schritt 13:
-
+#### Achtung! Wer vorher auf Nummer sicher gehen möchte, ob alle benötigten Bauteile bei LCSC vorhanden sind, sollte die Stücklisten-Excel Liste öffnen und die dort hinterlegten LCSC Artikelnummern in der [SMT Parts Library](https://jlcpcb.com/parts) auf Lagerbestand überprüfen.
 ![13.png](https://github.com/Asselhead/Bestellanleitung-JLCPCB-SMT-Service/blob/master/Screenshots/13.png)
 
 ## Schritt 14:
