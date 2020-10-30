@@ -85,3 +85,13 @@ Anschließend klickt man auf der Startseite auf "Quote Now". Es erscheint folgen
 ## Schritt 19:
 
 ![20.png](https://github.com/Asselhead/Bestellanleitung-JLCPCB-SMT-Service/blob/master/Screenshots/20.png)
+
+# Gut mit der Anleitung zurecht gekommen?
+
+## Ja? Dann freue ich mich über einen Kaffee:
+
+![KoFi.png](https://github.com/Asselhead/Arduino-Pro-Mini-RF/blob/master/Images/KoFi.png)
+
+[KoFi](https://ko-fi.com/asselhead)
+
+## Nein? Dann bitte Verbesserungswünsche per PR.
