@@ -90,8 +90,6 @@ Anschließend klickt man auf der Startseite auf "Quote Now". Es erscheint folgen
 
 ## Ja? Dann freue ich mich über einen Kaffee:
 
-![KoFi.png](https://github.com/Asselhead/Arduino-Pro-Mini-RF/blob/master/Images/KoFi.png)
-
-[KoFi](https://ko-fi.com/asselhead)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L52JYN0)
 
 ## Nein? Dann bitte Verbesserungswünsche per PR.
